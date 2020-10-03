@@ -1,2 +1,4 @@
 # Loveless
-Loveless Poster I Made
+
+A simple poster done in Photoshop, loosely based on the original from 1991.
+Best album ever.
